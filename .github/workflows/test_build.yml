@@ -26,8 +26,8 @@ jobs:
         python -m pip install --upgrade pip
     - name: Test build
       run: |
-        cd examples/demo1
+        cd Programming Languages/Python/
         python project.py build
-        ./build/demo1
+        ./build/Python
         python project.py clean
         python project.py distclean
