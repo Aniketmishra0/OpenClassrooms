@@ -1,4 +1,4 @@
-**[Back](/README.md/)**
+**[Back](/AI:ML/)**
 
 # Machine learning with Python resources
 
