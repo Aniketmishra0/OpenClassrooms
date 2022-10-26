@@ -1,6 +1,6 @@
 [**Back**](/README.md/)
 
-# Using Git and GitHub
+#  Git and GitHub :fire:
 
 - [Egg Head](https://egghead.io/lessons/javascript-introduction-to-github): Learn all you need to get started with Git and GitHub and get your first pull requests going.
 
