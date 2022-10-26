@@ -1,6 +1,6 @@
+![AIML Image](https://github.com/Aniketmishra0/OpenClassrooms/blob/main/Assets/AIML.jpg)
 
 
-![Image](res/tf.jpeg)
 
 # Machine Learning, Deep Learning, Artificial Intelligence
 
