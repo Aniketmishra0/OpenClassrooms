@@ -1,3 +1,5 @@
+// Subscribe And Fork this Repo
+
 // importTestData.js:- 
 
 
@@ -120,7 +122,14 @@ createTestData(recordCount);
  
 
 
+// Note :-- Replace : [EMAIL] >> 2nd User
 
 
+  gcloud projects add-iam-policy-binding $PROJECT_ID \
+  --member=user:[EMAIL] --role=roles/logging.viewer
+
+// Note :-- Replace : [EMAIL] >> 2nd User
 
 
+gcloud projects add-iam-policy-binding $PROJECT_ID \
+  --member=user:[EMAIL] --role roles/source.writer
