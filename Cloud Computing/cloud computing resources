@@ -1,0 +1,140 @@
+The best cloud computing services
+1. Microsoft Azure
+
+Microsoft
+
+The best cloud services platform
+
+REASONS TO BUY
+
+Windows and Linux compatible
+12-months free
+Comprehensive services
+REASONS TO AVOID
+
+None of note
+
+Microsoft Azure was released nearly a decade ago, in 2010. Users can run any service on the cloud or combine it with any existing applications, data center or infrastructure.
+
+Microsoft Azure provides a wide array of solutions suitable for all types of industry. All your business needs will be taken into consideration. This results in a package better suited for needs.
+
+
+
+Azure means there is no need to have physical servers on site. This reduces the usual costs, such as an onsite server support team.
+
+The Azure Migration Center makes cloud transfers faster and easier. The solution is also compatible with Linux.
+
+Microsoft Azure offers a free tier which includes access to all popular services, and over 25 ‘Always Free’ services. All of Microsoft Azure’s prices and plans are laid out in great detail on their site. The page includes a cost calculator and a ‘Pay as you go’ service. Each plan can be tailored to your specific needs.
+
+2. Amazon Web Services
+
+AWS
+
+The most popular cloud computing service
+
+REASONS TO BUY
+
+Highly customizable
+Huge choice of services
+Free trial
+REASONS TO AVOID
+
+None of note
+
+Amazon Web Services (AWS) is a cloud-based platform for building business solutions using integrated web services. AWS offers an extensive range of IaaS and PaaS services. These include Elastic Cloud Compute (EC2), Elastic Beanstalk, Simple Storage Service (S3) and Relational Database Service (RDS)
+
+AWS offers extensive admin controls available via their secure Web client. Users can access a number of features from here including encryption key creation and auditing. 
+
+Aws lets you customise infrastructure requirements. This costs far less than if you were set up in your own premises. Users can also access EC2 we services. This permits you to run and acquire servers as necessary. 
+
+
+
+AWS has three different pricing models; ‘Pay as you Go’, ‘Save when you reserve’ and ‘Pay less using more’. For more information about these, users must contact sale directly.
+
+AWS also offers a free 12-month tier. Once your trial period has expired, you must either choose a paid plan or cancel your AWS subscription.
+
+3. Google Cloud
+
+Google
+
+Google's powerful cloud computing alternative
+
+REASONS TO BUY
+
+User friendly
+Good range of services
+12-month free trial
+Google Cloud enables users to create business solutions using Google-provided, modular web services. It offers a wide array of services including IaaS and PaaS solutions.
+
+With Google Cloud’s multi layered secure infrastructure, users can rest assured that anything you build, create, code or store will be protected. This is done through a commitment to transparency and a highly trained team of engineers. 
+
+Google Cloud has a variety of tools to ensure consistent performance and management. These include Compute Engine, App Engine, Container Engine, Cloud Storage and Big Query. Google also offers smooth migration to virtual machines with flexible pricing.
+
+Google claims to be a leader when it comes to pricing by comparison to major revivals, and you can try the service out yourself for free.
+
+4. IBM Cloud
+
+IBM
+
+Reasonably-priced cloud services from one of the tech masters
+
+REASONS TO BUY
+
+Pre-configured tools
+Fully customisable
+Management tools
+IBM Cloud is a set of cloud computing services offered by the eponymous tech giant IBM. The solution offers platform as a service, software as a service and infrastructure as a service.
+
+
+
+IBM Cloud offers a wide range of services. Not all of them are cloud based: it covers both virtual and hardware –based servers, composed of public, private and management networks.
+
+As hardware and virtual-based servers are combined into one on demand cloud-platform, you have complete infrastructure control. IBM refer to their hardware servers as ‘bare metal’. These provide clients with sole access to their entire server. This reduces the ‘noisy neighbor’ effect and greatly improves performance.
+
+IBM Cloud is integrated and managed by a single system that can be controlled via web portal, API or mobile apps. IBM Cloud’s Bluemix developing solution has a wide range of cloud SaaS management tools. 
+
+IBM Cloud also offers full server customisation. This means that everything that is included in the server is handpicked by you. This way you do not have to pay for features that you might never use.
+
+5. Oracle Cloud Infrastructure
+
+Oracle
+
+Another IT behemoth cloud service
+
+REASONS TO BUY
+
+Architecture and storage
+Enterprise ready
+Free tier
+Oracle Cloud Infrastructure is another cloud service from a computing behemoth, and as you'd expect it's both a powerful and feature-packed platform. A recent Forrester review noted that Oracle's services were especially strong at supporting different workloads, especially for IoT, OLTP, microservices, along with applications dependent on AI and machine learning. There are two main service provisions available: cloud architecture, and storage data.
+
+
+Cloud architecture includes data management, databases, and applications, while the Oracle Data Cloud is primarily for driving big data analytics for business intelligence insights. Oracle also provides a range of SaaS platforms such as HCM, EPM, SCM, and social media tools. 
+
+As expected, there are a vast range of potential involved in using Oracle's cloud services, but they are really designed to accommodate enterprise needs rather than small businesses or individuals.
+
+For those who do sign up, aside from a 30-day free trial, Oracle Cloud also offers a free service tier which includes unlimited access to two autonomous databases which comes with Oracle Application Express (APEX) and Oracle SQL 
+
+Developer, as well as two compute VMs, block, object, and archive storage, as well as load balancing, monitoring, and notifications.
+
+6. CloudLinux
+
+CloudLinux
+
+The best open source cloud computing OS
+
+REASONS TO BUY
+
+Cloud OS platform
+Full control
+Customisations
+Built in security
+REASONS TO AVOID
+
+More technical challenges
+
+CloudLinux isn't so much a cloud computing provider, but rather a cloud platform you can build across your own servers. This means that if you'd prefer to have tight control over your cloud network rather than going with third-parties, you can host it yourself. While this presents a different set of challenges, it also offers a range of benefits, especially for those companies already heavily invested in their own IT infrastructure.
+
+CloudLinux is a distro of specifically built for virtualised cloud operations to power shared hosting services, by allocating and limiting server resources to each tenant. Additionally, each tenant is partition from each other, in other to create a more secure environment. The result is a hosting platform that has built in redundancy, stability, and security, in order to provide a better hosting environment.
+
+All cloud services require a degree of technical knowledge to work with, so for those with extensive expertise CloudLinux offers the opportunity to be far more in control of your own services and how they are configured.
