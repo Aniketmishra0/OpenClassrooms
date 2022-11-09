@@ -4,7 +4,7 @@
 
 # Machine Learning, Deep Learning, Artificial Intelligence
 
-- [**MLAI**](ML_with_Python.md): A list of resources for learning how to learn ML With Python.
+- [**Machine Learning**](ML_with_Python.md): A list of resources for learning how to learn ML With Python.
 
 
 ## Table of Contents
