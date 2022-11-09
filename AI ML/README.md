@@ -1,6 +1,7 @@
 ![AIML Image](https://github.com/Aniketmishra0/OpenClassrooms/blob/main/Assets/AIML.jpg)
 
 
+- [**MLAI**](ML_with_Python.md): A list of resources for learning how to learn ML With Python.
 
 # Machine Learning, Deep Learning, Artificial Intelligence
 
